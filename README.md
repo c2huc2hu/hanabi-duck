@@ -1,6 +1,6 @@
 # Duck Bots
 
-An arena for testing bots for the [Duck](https://github.com/Hanabi-Live/hanabi-live/blob/main/docs/VARIANTS.md#duck) variety of [Hanabi](https://hanab.live/lobby). 
+An arena for testing bots for the [Duck](https://github.com/Hanabi-Live/hanabi-live/blob/main/docs/variants.md) variety of [Hanabi](https://hanab.live/lobby). 
 
 todo: add summary
 
